@@ -1,6 +1,11 @@
 To setup the database in PostgresSQL:
 
-1. Create a new database in pgAdmin4
+1. Create a new database in pgAdmin4, with the following property:
+    - user: "postgres",
+    - password: "postgres",
+    - host: "localhost",
+    - port: 5432,
+    - database name: "assignment3"
 
 2. Right click on the database, choose 'Query Tool', and use `sechma.sql` to initialize the Students table
 
