@@ -17,4 +17,4 @@ To compile and run the Node.js application:
 
 2. Enter input suggested by the prompt
 
-[Video Demo]()
+[Video Demo on YouTube](https://youtu.be/SdieQn02DnU)
